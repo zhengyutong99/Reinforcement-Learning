@@ -1,4 +1,11 @@
-# Reinforcement-Learning
+# Reinforcement Learning
+
+Labs and final project from *Selected Topics in Reinforcement Learning* (Fall 2023), National Yang Ming Chiao Tung University.
+
+**Stack:** Python · PyTorch · Gymnasium / racecar_gym
+
+The final project is the main piece; `Lab0`–`Lab4` are the weekly exercises leading up to it.
+
 ## Final Project : Race Car
 ### Project Description
 The objective of this project is to develop a reinforcement learning agent capable of autonomously controlling a racecar within a vision-based racing environment derived from racecar_gym. The agent receives only a single RGB observation per timestep and must learn to maximize track progress under strict temporal constraints. Performance is evaluated on two tracks—Circle_cw and Austria—each requiring stable, collision-resistant driving behavior under environment randomness. 
